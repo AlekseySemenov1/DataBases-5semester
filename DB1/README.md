@@ -20,4 +20,6 @@ ___
 9)	Научные открытия (стержневая сущность)
 10)	 Исследования (ассоциативная сущность)
 ## Инфологическая модель:
-![image](https://user-images.githubusercontent.com/71176575/202291023-243ecbf1-bf10-44ed-ba50-aaa2950bc952.png)
+![image](https://user-images.githubusercontent.com/71176575/202293434-b260a818-1c88-4ffa-becb-5ce240b7d57f.png)
+## Даталогическая модель
+![image](https://user-images.githubusercontent.com/71176575/202295432-67b5c97f-f0e9-41c1-8ce1-7fa359efd447.png)
